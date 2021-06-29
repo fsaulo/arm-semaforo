@@ -11,9 +11,9 @@ endif
 set shortmess=aoO
 argglobal
 %argdel
-edit src/start.s
+edit src/armsemaforo.c
 argglobal
-balt stm32f205rb.ld
+balt Makefile
 setlocal fdm=manual
 setlocal fde=0
 setlocal fmr={{{,}}}
@@ -24,16 +24,17 @@ setlocal fdn=20
 setlocal fen
 silent! normal! zE
 let &fdl = &fdl
-let s:l = 1 - ((0 * winheight(0) + 17) / 35)
+let s:l = 4 - ((3 * winheight(0) + 17) / 35)
 if s:l < 1 | let s:l = 1 | endif
 keepjumps exe s:l
 normal! zt
-keepjumps 1
+keepjumps 4
 normal! 0
 tabnext 1
-badd +7 src/armsemaforo.c
+badd +1 src/armsemaforo.c
 badd +1 stm32f205rb.ld
-badd +0 src/start.s
+badd +8 src/start.s
+badd +33 Makefile
 if exists('s:wipebuf') && len(win_findbuf(s:wipebuf)) == 0
   silent exe 'bwipe ' . s:wipebuf
 endif
@@ -44,7 +45,6 @@ if filereadable(s:sx)
   exe "source " . fnameescape(s:sx)
 endif
 let &g:so = s:so_save | let &g:siso = s:siso_save
-nohlsearch
 let g:this_session = v:this_session
 let g:this_obsession = v:this_session
 doautoall SessionLoadPost
