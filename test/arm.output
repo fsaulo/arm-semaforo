@@ -1,0 +1,449 @@
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+S
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 53
+G
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 53
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+14
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+13
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+12
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 53
+G
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 53
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+14
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+13
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 53
+R
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 53
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+14
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+13
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+12
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 53
+R
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 53
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+14
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+13
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 53
+R
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 53
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+14
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+13
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 53
+R
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 53
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+14
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+13
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+12
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 53
+R
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 53
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+14
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+13
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+12
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 53
+G
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 53
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+14
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+13
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+12
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+11
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+10
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 53
+G
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 53
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+14
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+13
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+12
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+11
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+10
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 53
+G
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 53
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+14
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+13
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+12
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 53
+R
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 53
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+14
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+13
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+12
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 53
+G
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 53
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+14
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+13
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 53
+R
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 53
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+14
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+13
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 53
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 53
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+4
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+3
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+2
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 53
+R
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 53
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+14
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+13
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+12
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+11
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+10
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+9
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+8
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+7
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 53
+G
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 53
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+14
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+13
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+12
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+11
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+10
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+9
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+8
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+7
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 44
+6
+Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 44
+...successful exception return

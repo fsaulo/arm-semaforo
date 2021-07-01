@@ -1,0 +1,232 @@
+HELLO
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Warning: The guest is now late by 0.0 to 1.0 seconds
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
+Taking exception 5 [IRQ]
+...taking pending nonsecure exception 15
+SYSTICK INTERRUPT!!Taking exception 8 [QEMU v7M exception exit]
+Exception return: magic PC fffffff9 previous exception 15
+...successful exception return
